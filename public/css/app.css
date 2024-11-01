@@ -1,0 +1,22 @@
+.participants_table{
+    width: 95%;
+    margin: 20px;
+}
+
+.thead{
+    padding: 5px;
+}
+
+.participants_table td{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.participants_form{
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
